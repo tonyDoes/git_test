@@ -6,3 +6,4 @@
 1050 am mar 6
 	daily git commit practice	
 		#still need help remembering commands
+	cont. commit push practice
