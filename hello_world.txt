@@ -3,3 +3,6 @@
 11 am mar 4 daily git commit practice 
 	cont. commit push practice
 	cont. commit push practice .2
+1050 am mar 6
+	daily git commit practice	
+		#still need help remembering commands
