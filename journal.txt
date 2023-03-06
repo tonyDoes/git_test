@@ -1,9 +1,12 @@
 # This is a journal of my daily practice
 
 March 6
-	-Started with a git push commit but my trouble already started 
-fig the txt thru the command line as i couldnt remember the commands to 
-get there. After about 5 minutes i figured it out but then i needed a 
+11 am	-Started with a git push commit but my trouble already started 
+trying to find  the txt thru the command line as i couldnt remember the 
+commands to get there. After about 5 minutes i figured it out but then i needed a 
 quick run thru of how to push a commit onto github. all in all it took 
 me about 30 minutes to do all that
-	-
+
+1110 am	-Made this journal.txt file to write about my practice. I made a new 
+txt file and that went smooth. This new commit was easier as i just went 
+thru thr refresher of the git commands. 
