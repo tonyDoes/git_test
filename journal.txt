@@ -10,3 +10,12 @@ me about 30 minutes to do all that
 1110 am	-Made this journal.txt file to write about my practice. I made a new 
 txt file and that went smooth. This new commit was easier as i just went 
 thru thr refresher of the git commands. 
+
+1120 am -Boilerplate practice. Its advised to try to remember the basic html format of a webpage as it will be used lots
+Wrote the boilerplate 3 times but i for now do not have it memorized.
+    #"!" shortcut was not working, the command to autmatically display the html boilerplate format.
+
+1155 am Starting more html practice thru TOP curriculum. 
+
+March 8
+
