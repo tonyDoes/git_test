@@ -18,4 +18,16 @@ Wrote the boilerplate 3 times but i for now do not have it memorized.
 1155 am Starting more html practice thru TOP curriculum. 
 
 March 8
+7 pm    -Starting the day by committing a journal entry as my daily git push practice. So a commit will not be updated for the "daily git practice"
+I am still working on basic html practices. I am learning how to insert correct heading, paragraph, strong(bold)element, em(italics)element, and also learning what nesting and indentations are.
+Working thru my practice webpage and practcing writing correct tags for the headings, paragraphs, etc.
 
+730 pm  -Learning and practcing doing tags for making a list on you webpage. there are two different tags <ul> which is unordered list and <ol> which is ordered list.
+Came to a barricade but i quickly figured out why. I was not ending my tags like how you are suppose to and the webpage was not looking correct.
+
+8 pm    -The next lesson is inserting links and embedding images to your webpage. There are two types of links, absolute (links to other webpages) and relative (links to pages on own wepsite)
+The link lesson is pretty straight forward and it did have an assasingment with a refresher on how to make directories and moving files to a new directory. It took me a small bit of time but i figured it out.
+
+830 pm  -Learning how to insert images onto your html webpage with the image tag <img>
+Images don't need end tags and they can be both relative or absolute path. Learned more about parent directories and how to add filepaths. It is a bit confusing but with more practice i think i can get it done.
+There is also "alt attribute," words used to descibe the image if it doesn't load or to help visually impaired users who need screen readers.
